@@ -1,0 +1,11 @@
+{
+  "/api/cms/route": "app/api/cms/route.js",
+  "/servicios/oil-gas/page": "app/servicios/oil-gas/page.js",
+  "/servicios/buques-mercantes/page": "app/servicios/buques-mercantes/page.js",
+  "/servicios/nautica-recreo/page": "app/servicios/nautica-recreo/page.js",
+  "/servicios/industrial-comercial/page": "app/servicios/industrial-comercial/page.js",
+  "/nosotros/page": "app/nosotros/page.js",
+  "/autoridad/page": "app/autoridad/page.js",
+  "/red-global/page": "app/red-global/page.js",
+  "/contacto/page": "app/contacto/page.js"
+}
